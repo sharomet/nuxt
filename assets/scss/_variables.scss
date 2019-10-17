@@ -1,0 +1,35 @@
+/**
+ * FontAwesome
+ */
+ $fa-font-path:                   "/webfonts";
+
+/**
+ * Global Styles
+ */
+$body-bg:                       #fafafa;
+$body-color:                    #656565;
+$font-size-base:                  0.95rem;
+$font-family-base:                'Roboto', sans-serif;
+$enable-responsive-font-sizes:                true;
+$enable-prefers-reduced-motion-media-query:   false;
+
+/**
+ * Primary Colors
+ */
+$primary:                       #81b9c3;
+$secondary:                     #3f7583;
+$success:                       #1baf2f;
+$info:                          #12a4c9;
+$warning:                       #c0640d;
+$danger:                        #c23e39;
+
+/**
+ * Navbar
+ */
+ $navbar-padding-y:               0;
+
+ /**
+  * Sidebar
+  */
+$sidebar-bg:                      #629ba5;
+$sidebar-item-color:              #eee;
